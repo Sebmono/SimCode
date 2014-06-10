@@ -1,0 +1,9 @@
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\bin\Debug\XR_test1form.exe.config
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.Form1.resources
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.Properties.Resources.resources
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.csproj.GenerateResource.Cache
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.csproj.ResolveComReference.cache
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\bin\Debug\XR_test1form.exe
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\bin\Debug\XR_test1form.pdb
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.exe
+c:\users\sebastian.mankowski\documents\visual studio 2013\Projects\XR_test1form\XR_test1form\obj\Debug\XR_test1form.pdb
