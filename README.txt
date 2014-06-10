@@ -1,0 +1,1 @@
+This is an initial README file for the statistical hockey simulator prototype
