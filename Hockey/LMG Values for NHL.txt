@@ -1,0 +1,11 @@
+NHL Regular Season:
+- Team Save % = 	29.5%
+- Shooting % = 		28.9%
+- Shots Against/G =	24.0%
+- Shots For/G =		17.7%
+
+NHL Playoffs:
+- Team Save % = 	43.3%
+- Shooting % = 		34.9%
+- Shots Against/G =	13.3%
+- Shots For/G =		8.6%

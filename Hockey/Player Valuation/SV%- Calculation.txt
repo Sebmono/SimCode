@@ -1,0 +1,1 @@
+SV%- = 100*((1 - player save%)/(1 - league avg. save%))
